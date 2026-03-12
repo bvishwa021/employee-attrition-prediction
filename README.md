@@ -36,3 +36,5 @@ employee-attrition-prediction/
 
 ## Dataset
 [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) — via Kaggle
+- Characteristics:
+1. Missing values of the dataset are handled by Kaggle 
