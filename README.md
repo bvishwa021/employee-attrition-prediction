@@ -5,6 +5,7 @@ An end-to-end machine learning project that predicts whether an employee is like
 This is a binary classification problem — the target variable is `Attrition` (Yes/No).
 
 ## Project Structure
+```
 employee-attrition-prediction/
 ├── data/
 │   ├── raw/              # Original dataset (never modified)
@@ -17,6 +18,7 @@ employee-attrition-prediction/
 │   └── reports/          # Evaluation metrics and reports
 ├── requirements.txt
 └── README.md
+```
 
 ## Pipeline
 1. **EDA** — Understanding who leaves, income analysis, overtime patterns, correlations
@@ -34,4 +36,3 @@ employee-attrition-prediction/
 
 ## Dataset
 [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) — via Kaggle
-```
